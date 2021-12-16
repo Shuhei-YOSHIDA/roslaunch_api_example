@@ -1,0 +1,4 @@
+<launch>
+  <param name="foo_param" value="1"/>
+  <node name="roslaunch_api_example_node" type="roslaunch_api_example_node" pkg="roslaunch_api_example" output="screen"/>
+</launch>
